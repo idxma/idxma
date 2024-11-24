@@ -1,6 +1,8 @@
 ## Amoka (@idxma)
 - Interests
-  - Computer
+  - Kubernetes, Docker, LPAR/PPAR
+  - VPN, 
+  - MotionGraphics
 <!--
 **idxma/idxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

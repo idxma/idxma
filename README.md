@@ -1,8 +1,6 @@
 ## Amoka (@idxma)
 - Interests
-  - Compilers and strong type system
-  - Nix, NixOS and reproducible builds
-  - Video infrastructures
+  - Computer
 <!--
 **idxma/idxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

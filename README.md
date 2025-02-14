@@ -1,4 +1,4 @@
-## Amoka (@idxma)
+## Kota Takahashi (@idxma)
 - Interests
   - Kubernetes, Docker, LPAR/PPAR
   - VPN, 

@@ -1,7 +1,7 @@
-## Kota Takahashi (@idxma)
+## Kou (@idxma)
 - Interests
   - Kubernetes, Docker, LPAR/PPAR
-  - VPN, 
+  - Network 
   - MotionGraphics
 <!--
 **idxma/idxma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
